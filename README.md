@@ -1,5 +1,5 @@
 This script takes the log files from a DCM (Digital Content Manager) and outputs a chart with the occurrences 
-of "BW Exceeded" alarms, if they exist. The directory structure of the script is currently configured to be run 
+of "BW Exceeded" alarms per transport stream, if they exist. The directory structure of the script is currently configured to be run 
 under Linux.
 
 Instructions:
