@@ -7,5 +7,5 @@ Instructions:
 - cd dcm
 - mkdir dcmFiles
 - pip install -r requirements.txt
-- Copy the complete exported logs from the DCM to the directory "dcmFiles"
+- Copy the complete exported logs (extension tgz) from the DCM to the directory "dcmFiles"
 - Run the script (python bw_exceeded5.py)
